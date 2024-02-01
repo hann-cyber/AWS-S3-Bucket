@@ -1,4 +1,4 @@
-# AWS-S3-Bucket
+# Making Your First AWS S3 Bucket
 A guide illustrating how to make your first bucket using Amazon Web Services S3. Buckets can be used to store data that can be accessed later on cloud storage! The data can also be encrypted, and can be made public or kept privately. Some popular uses are for big data analytics or disaster recovery backups. Another example, which I'll be illustrating is deploying a public facing website.
 
 1. To start, I'll head over to the S3 service and click create a bucket.
