@@ -13,7 +13,7 @@ Here, the bucket is successfully created.
  <img src="https://i.imgur.com/9FDZknS.png">
 </p>
 
-2. Next, I add the desired files. In this case I'm just going to add an image file of my rescued Beagles. So far, this is pretty similar to any other cloud based storage such as Microsoft OneDrive of Google Drive.
+2. Next, I add the desired files. So far, this is pretty similar to any other cloud based storage such as Microsoft OneDrive of Google Drive.
 
 <p align="center">
  <img src="https://i.imgur.com/vlwvOcH.png">
@@ -31,7 +31,7 @@ Here, I used the object URL link that was provided, which doesn't work since I d
  <img src="https://i.imgur.com/rjfg2HJ.png">
 </p>
 
-In this scenario I used the "open" button, which uses private tokenized link that grants me access to the file. Note: I blocked my token info.
+In this scenario I used the "open" button, and now you can see my Beagle rescues! The reason why this works differently is due to AWS providing a private tokenized link that grants me access to the file. Note: I blocked my token info.
 
 <p align="center">
  <img src="https://i.imgur.com/elxjvFG.png">
